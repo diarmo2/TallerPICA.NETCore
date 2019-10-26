@@ -1,0 +1,14 @@
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\bin\Debug\netcoreapp2.1\APIRest_Taller_PICA.deps.json
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\bin\Debug\netcoreapp2.1\APIRest_Taller_PICA.runtimeconfig.json
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\bin\Debug\netcoreapp2.1\APIRest_Taller_PICA.runtimeconfig.dev.json
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\bin\Debug\netcoreapp2.1\APIRest_Taller_PICA.dll
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\bin\Debug\netcoreapp2.1\APIRest_Taller_PICA.pdb
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.csproj.CoreCompileInputs.cache
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.RazorAssemblyInfo.cache
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.RazorAssemblyInfo.cs
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.AssemblyInfoInputs.cache
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.AssemblyInfo.cs
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.RazorTargetAssemblyInfo.cache
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.dll
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.pdb
+E:\ESB\Documentos\TalleresPICA\Taller_NETCore_PICA\Taller_NETCore_PICA\APIRest_Taller_PICA\obj\Debug\netcoreapp2.1\APIRest_Taller_PICA.csprojAssemblyReference.cache
